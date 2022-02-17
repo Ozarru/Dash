@@ -1,0 +1,36 @@
+[
+    {
+        
+        "name":"highway 13",
+        "rate":500,   
+        "eta":7
+   ,     "etd":10
+    },
+
+    {
+      "name":"Douglas road",
+    "rate":2500,    
+    "eta":8,
+    "etd":5
+},
+    {
+     "name":"Volks road",
+    "rate":3500,    
+    "eta":4,
+    "etd":7
+},
+
+    {
+     "name":"Aroma avenue",
+    "rate":1500,    
+    "eta":11,
+    "etd":20
+},
+    {
+       "name":"Kenyata district",
+    "rate":1000,
+    "eta": 6,
+    "etd": 30
+}
+
+]

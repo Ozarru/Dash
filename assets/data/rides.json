@@ -1,0 +1,35 @@
+[
+    {
+        "image": "assets/static/bicycle.png",
+        "type":"Bicycle",
+        "rate":500,   
+        "eta":7
+    },
+
+    {
+    "image": "assets/static/bike.png",
+    "type":"Bike",
+    "rate":2500,    
+    "eta":20
+},
+    {
+    "image": "assets/static/car.png",
+    "type":"Car",
+    "rate":3500,    
+    "eta":30
+},
+
+    {
+    "image": "assets/static/van.png",
+    "type":"Van",
+    "rate":1500,    
+    "eta":15
+},
+    {
+    "image": "assets/static/ferry.png",
+    "type":"Ferry",
+    "rate":1000,
+    "eta": 10
+}
+
+]

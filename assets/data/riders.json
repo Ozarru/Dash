@@ -1,0 +1,33 @@
+[
+    {
+    "name":"Mumen Rider",
+    "rate":2500,
+    "radius":10,
+    "eta":20
+},
+    {
+    "name":"Ghost Rider",
+    "rate":3500,
+    "radius":20,
+    "eta":30
+},
+    {
+    "name":"Rider X",
+    "rate":500,
+    "radius":3,
+    "eta":7
+},
+    {
+    "name":"Rider Y",
+    "rate":1500,
+    "radius":10,
+    "eta":15
+},
+    {
+    "name":"Lil Nas",
+    "rate":1000,
+    "radius":8.5,
+    "eta": 10
+}
+
+]
